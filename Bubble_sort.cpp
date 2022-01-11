@@ -26,3 +26,4 @@ while(counter<n){
    cout<<arr[i]<<" ";
    
    }
+}
